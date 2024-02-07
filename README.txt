@@ -1,4 +1,4 @@
-Equuipo de trabajo:
+Equipo de trabajo:
 
 Esteban Cardoso Benitez
 
