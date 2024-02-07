@@ -1,4 +1,6 @@
-Equipo de trabajo:
+# ESTRELLITAS NUMERO 11  
+
+Integrantes del equipo de trabajo:
 
 Esteban Cardoso Benitez
 
