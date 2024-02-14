@@ -20,6 +20,8 @@ void task1(){
                         if ((currentTime - lastTime) >= INTERVAL){
                                 lastTime = currentTime;
                                 Serial.print("1");
+                                Serial.print("\n");
+
                         }
                         break;
                         }
@@ -82,7 +84,7 @@ void task3(){
                         uint32_t currentTime = millis();
                         if ((currentTime - lastTime) >= INTERVAL){
                                 lastTime = currentTime;
-                                Serial.print("2 + 1");
+                                Serial.print("3");
                                 Serial.print("\n");
                         }
                         break;
